@@ -3,3 +3,4 @@ This repository idea came from a project that was proposed to me in one of my pr
 
 I hope you like it as much as I enjoyed making it, I myself also learn a lot from doing these!
 
+**This project is currently finished**
